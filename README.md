@@ -10,7 +10,7 @@
 * 2.由于淘宝文本内容的变动,导致有时候点击不了,需要代码里修改字段
 
 #### 遇到问题的话 加群讨论吧
-![二维码](http://www.xiaye0.com/wp-content/uploads/2020/10/WechatIMG108.jpeg)
+![二维码](https://pic2.zhimg.com/80/v2-448ef79c2abb36b41f9b002d0ddf2dac_1440w.png)
 
 #### 效果图
 ![效果图](http://www.xiaye0.com/wp-content/uploads/2020/10/1603332762242610.gif)
